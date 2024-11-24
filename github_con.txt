@@ -1,0 +1,4 @@
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+- for this project by using learn token (exp: Tue, Dec 24 2024)
+git remote set-url origin https://<token>@github.com/SasanDilanthaSTD/Learn_Python_OPP
